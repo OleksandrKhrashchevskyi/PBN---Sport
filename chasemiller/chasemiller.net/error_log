@@ -1,0 +1,1 @@
+[13-Mar-2020 08:00:43 UTC] PHP Recoverable fatal error:  Object of class WP_Error could not be converted to string in /home/v58319/public_html/chasemiller.net/wp-content/plugins/all-in-one-seo-pack/inc/schema/graphs/graph-webpage.php on line 114
